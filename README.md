@@ -30,8 +30,18 @@ $ python --version
 $ conda list
 ```
 でAnacondaのバージョンを確認することができます。<br>
+# 対話モード
 インストールが完了するとpythonコマンドが使えるようになります。<br>
 pythonインタプリタの対話モードで計算やprint関数を試してみましょう。<br>
 ![](https://github.com/AtsuyaKoike/pyhton-Environment/blob/master/anakonda4.png)<br>
 <br>
 これで設定は完了です。pythonのプログラムを書いていきましょう！<br>
+
+# pythonスクリプトファイル
+pythonインタプリタでは長いプログラムが書けないのでファイル実行できるようにししょう。<br>
+practice.pyというファイルをつくり（pythonのファイルは.pyで表されます）、その中にプログラムを書いていきます。<br>
+実行は
+```
+$ pyhton practice.py
+```
+で行えます。
