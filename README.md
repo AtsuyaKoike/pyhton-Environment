@@ -21,3 +21,13 @@ https://www.anaconda.com/download/ <br>
 <br>
 最後にMicorsoft VScodeをインストールするか聞かれますが、どちらでも構いません。<br>
 <br>
+# バージョン確認
+$ python --version
+でpyhtonのバージョンを確認することができます。<br>
+$ conda list
+でAnacondaのバージョンを確認することができます。<br>
+インストールが完了するとpythonコマンドが使えるようになります。<br>
+pythonインタプリタの対話モードで計算やprint関数を試してみましょう。<br>
+![](https://github.com/AtsuyaKoike/pyhton-Environment/blob/master/anakonda4.png)<br>
+<br>
+これで設定は完了です。pythonのプログラムを書いていきましょう！<br>
