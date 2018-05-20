@@ -1,12 +1,23 @@
 # pyhton-Environment
 Ubuntu16.04でのpythonの環境構築の方法です（電子工学研究会用）<br>
 <br>
-今回はAnacondaというディストリビューションを使ってインストールを行います。
-
-https://www.anaconda.com/download/
-まず↑のURLにアクセスしてください。
-
-![](https://github.com/AtsuyaKoike/pyhton-Environment/blob/master/anakonda.png)
-そして「Python 3.6 version *」のDOWNLOADをクリックし、任意のディレクトリに保存します。
-
-
+今回はAnacondaというディストリビューションを使ってインストールを行います。<br>
+<br>
+https://www.anaconda.com/download/ <br>
+まず↑のURLにアクセスしてください。<br>
+<br>
+![](https://github.com/AtsuyaKoike/pyhton-Environment/blob/master/anakonda.png)<br>
+そして「Python 3.6 version」のDOWNLOADをクリックし、任意のディレクトリに保存します。<br>
+<br>
+![](https://github.com/AtsuyaKoike/pyhton-Environment/blob/master/anakonda2.png)<br>
+<br>
+そしてターミナルでダウンロードしたディレクトリまで移動してbashコマンドで実行します。<br>
+<br>
+![](https://github.com/AtsuyaKoike/pyhton-Environment/blob/master/anakonda3.png)<br>
+<br>
+指示に従っていきましょう。基本的にそのままで問題ありません。<br>
+<br>
+他にもインスタンス場所について聞かれることがありますが、yesで大丈夫です。<br>
+<br>
+最後にMicorsoft VScodeをインストールするか聞かれますが、どちらでも構いません。<br>
+<br>
