@@ -9,3 +9,4 @@ https://www.anaconda.com/download/
 ![](https://github.com/AtsuyaKoike/pyhton-Environment/blob/master/anakonda.png)
 そして「Python 3.6 version *」のDOWNLOADをクリックし、任意のディレクトリに保存します。
 
+
